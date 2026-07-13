@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+  =>  Template Name    : Family Doctor – Medical HTML Template
+
+  =>  Template Link    : https://htmlcodex.com/family-doctor
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+  =>  Author Website   : https://htmlcodex.com
+
+=======
+  =>  Template Name    : Family Doctor – Medical HTML Template
+
+  =>  Template Link    : https://htmlcodex.com/family-doctor
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+  =>  Author Website   : https://htmlcodex.com
+
+>>>>>>> 478452e8c55997d39fa9c86469ec377276f2a074
+  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
